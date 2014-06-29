@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://douzl.github.io/fedtalk/sitemap.xml 

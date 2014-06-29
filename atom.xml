@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[FedTalk]]></title>
+  <link href="http://douzl.github.io/fedtalk/atom.xml" rel="self"/>
+  <link href="http://douzl.github.io/fedtalk/"/>
+  <updated>2014-06-29T12:19:02+08:00</updated>
+  <id>http://douzl.github.io/fedtalk/</id>
+  <author>
+    <name><![CDATA[Zhongqiang Dou]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
