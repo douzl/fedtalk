@@ -1,4 +1,0 @@
-fedtalk
-=======
-
-Fedora Tips
